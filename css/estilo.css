@@ -3,6 +3,9 @@
   padding: 0;
   margin: 0; }
 
+.gradiente {
+  background-image: linear-gradient(to left, #13e6c9, #fd00db); }
+
 aside {
   margin-top: 50px;
   margin-bottom: 200px;
